@@ -1,0 +1,7 @@
+Material: Steel or Stainless Steel
+Thickness: 0.100" / 2.54mm
+
+CNC Bends on the middle lines:
+
+2 Pieces with both bends 90 degrees UP
+2 Pieces with both bends 90 degrees DOWN
